@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @author LeTrongTin
  */
 import java.util.Scanner;
-public class THtuan4_BaiTap5_LeTrongTin 
+public class Bai5 
 {
     static Scanner sc = new Scanner(System.in);
     static int a;
