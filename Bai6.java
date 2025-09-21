@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Baitap6 {
+public class Bai6 {
     public static int ucln(int a, int b) {
         while (b != 0) {
             int temp = b;
