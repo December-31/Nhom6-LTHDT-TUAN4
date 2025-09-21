@@ -8,7 +8,7 @@
  * @author LeTrongTIn
  */
 import java.util.Scanner;
-public class THtuan4_BaiTap10_LeTrongTin 
+public class Bai10 
 {
     static Scanner sc = new Scanner(System.in);
     static int A[] = new int[100], n, i;
