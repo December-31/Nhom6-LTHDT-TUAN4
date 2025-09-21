@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Baitap9 {
+public class Bai9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhập số lượng phần tử: ");
